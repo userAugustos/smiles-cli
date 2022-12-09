@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/$(pwd)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/algoalagoalg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/algoalgoalgo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smiles-lambda-algo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smiles-lambda-some-ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/{repo_name}" vcs="Git" />
+  </component>
+</project>
