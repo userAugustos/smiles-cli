@@ -24,7 +24,7 @@ def main():
         return None
 
     print(f"[bold]Buscando...[/bold] :eyes: ")
-    Repo.clone_from("git@github.com:smiles-sa/smiles-engenhariasoftware.git", "temp", branch="master")
+    Repo.clone_from("<your-template-repo>", "temp", branch="master")
     with Progress(
         SpinnerColumn(),
         TextColumn("[progress.description]{task.description}"),
